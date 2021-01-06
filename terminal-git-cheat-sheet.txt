@@ -1,4 +1,4 @@
-# Terminal Cheat Sheet
+# Terminal Git Cheat Sheet
 
 pwd         # print working directory
 ls          # list files in directory
